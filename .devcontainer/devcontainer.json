@@ -35,6 +35,7 @@
 	"extensions": [
 		"ms-python.python",
 		"ms-python.vscode-pylance",
+		"visualstudioexptteam.vscodeintellicode",
 		"wakatime.vscode-wakatime",
 		"njpwerner.autodocstring",
 		"janisdd.vscode-edit-csv",
